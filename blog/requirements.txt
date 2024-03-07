@@ -3,3 +3,4 @@ djangorestframework
 drf_yasg
 djangorestframework_simplejwt
 django_filter
+Pillow
